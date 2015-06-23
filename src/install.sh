@@ -87,6 +87,10 @@ echo "System checking is done!"
 ##### build the software
 echo "Building the software program ......"
 
+# create build directory
+rm -r ../build
+mkdir ../build
+
 # copy bin
 cp -r bin ../build
 # copy config
