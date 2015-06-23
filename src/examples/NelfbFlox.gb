@@ -1,0 +1,502 @@
+LOCUS       Myd88Flox|wild          4399 bp    DNA     linear   UNK 
+DEFINITION  ORDER=0; TARGET=755,2 3602,2
+ACCESSION   flox
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..756
+                     /name="left"
+     Fragment        757..3602
+                     /name="change"
+     Fragment        3603..4399
+                     /name="right"
+     SNP             435
+                     /name="rs236409336"
+                     /allele="A/G"
+     SNP             448
+                     /name="rs223407706"
+                     /allele="A/C"
+     SNP             457
+                     /name="rs259700793"
+                     /allele="C/T"
+     SNP             463
+                     /name="rs250167191"
+                     /allele="A/G"
+     SNP             541
+                     /name="rs224946990"
+                     /allele="A/G"
+     SNP             616
+                     /name="rs262965663"
+                     /allele="A/G"
+     SNP             726
+                     /name="rs244225006"
+                     /allele="G/T"
+     SNP             942
+                     /name="rs250634245"
+                     /allele="A/G"
+     SNP             1074
+                     /name="rs230004870"
+                     /allele="C/T"
+     SNP             1156
+                     /name="rs28257686"
+                     /allele="A/G"
+     SNP             1163
+                     /name="rs260469154"
+                     /allele="C/T"
+     SNP             1475
+                     /name="rs241634215"
+                     /allele="A/G"
+     SNP             1686
+                     /name="rs216161910"
+                     /allele="A/G"
+     SNP             1711
+                     /name="rs29861527"
+                     /allele="G/T"
+     SNP             1713
+                     /name="rs50571641"
+                     /allele="A/T"
+     SNP             1736
+                     /name="rs33288883"
+                     /allele="G/T"
+     SNP             1750
+                     /name="rs256675518"
+                     /allele="C/T"
+     SNP             1816
+                     /name="rs231847947"
+                     /allele="A/G"
+     SNP             1818
+                     /name="rs213327664"
+                     /allele="C/G"
+     SNP             1934
+                     /name="rs242875153"
+                     /allele="C/T"
+     SNP             2101
+                     /name="rs223277222"
+                     /allele="A/G"
+     SNP             2105
+                     /name="rs259785275"
+                     /allele="G/T"
+     SNP             2306
+                     /name="rs28257687"
+                     /allele="C/T"
+     SNP             2307
+                     /name="rs253796782"
+                     /allele="G/T"
+     SNP             2407
+                     /name="rs232886585"
+                     /allele="A/G"
+     SNP             2411
+                     /name="rs263166115"
+                     /allele="C/T"
+     SNP             2502
+                     /name="rs246810465"
+                     /allele="A/G"
+     SNP             2546
+                     /name="rs219643960"
+                     /allele="A/T"
+     SNP             2596
+                     /name="rs256834845"
+                     /allele="A/G"
+     SNP             2643
+                     /name="rs237430486"
+                     /allele="A/C"
+     SNP             2897
+                     /name="rs223620500"
+                     /allele="A/G"
+     SNP             2908
+                     /name="rs263944530"
+                     /allele="A/G"
+     SNP             2983
+                     /name="rs238970312"
+                     /allele="C/T"
+     SNP             3047
+                     /name="rs224487292"
+                     /allele="C/T"
+     SNP             3136
+                     /name="rs221448004"
+                     /allele="-/G"
+     SNP             3154
+                     /name="rs248486888"
+                     /allele="-/T"
+     SNP             3239
+                     /name="rs258245743"
+                     /allele="A/G"
+     SNP             3395
+                     /name="rs231723034"
+                     /allele="A/G"
+     SNP             3416
+                     /name="rs213383231"
+                     /allele="C/T"
+     SNP             3462
+                     /name="rs242757967"
+                     /allele="A/G"
+     SNP             3514
+                     /name="rs229791757"
+                     /allele="G/T"
+     SNP             3720
+                     /name="rs218882283"
+                     /allele="C/T"
+     SNP             3793
+                     /name="rs258900520"
+                     /allele="C/T"
+     SNP             3814
+                     /name="rs232275257"
+                     /allele="A/G"
+     SNP             3827
+                     /name="rs265460559"
+                     /allele="A/G"
+     SNP             3837
+                     /name="rs251525876"
+                     /allele="C/T"
+     SNP             3861
+                     /name="rs225715734"
+                     /allele="A/G"
+     SNP             4188
+                     /name="rs232545299"
+                     /allele="-/C"
+     SNP             4216
+                     /name="rs28257688"
+                     /allele="C/T"
+     SNP             4231
+                     /name="rs237258743"
+                     /allele="C/G"
+     SNP             4249
+                     /name="rs223495550"
+                     /allele="A/G"
+     SNP             4263
+                     /name="rs264112890"
+                     /allele="C/T"
+     SNP             4280
+                     /name="rs28257689"
+                     /allele="C/G"
+ORIGIN      
+        1 gtggtgttct tttcttcagg attgaaatgg cagtctggga actaacccta agctttctga
+       61 cctaggatag aataggaaaa ggcaatgtgg gacaatctaa tccactcacc taaggtccag
+      121 catctacctg aggatcaggg atgcttgctg ggctgaggaa ctattgggat gggatgggaa
+      181 gtcagaacct ggggtgcaga cacctgtctg cagacagcct tgcctagccc actgaggtag
+      241 gacccaggga atcagctcac cagacactgg ccctactccc ctggagcctt gacctgaaga
+      301 gtcaactggg tttggtaact tgtgttctga gaacccacgc ccaaagcctt cccaccctag
+      361 cccctgccca atgatggttc cctcagcact gttgatctgc cttcctactt agaagtagcc
+      421 cccttcagga gccttgccct gcagctagta atagcaattt ctccagagct ctctccatac
+      481 tttcttccac acccagacac agatctcact aaagaacgtt tttaaaatgt attttatgtg
+      541 tatggtgttt tgtttgcttg tatgtatgtg tatgtgtgct tagtacccag aagacattag
+      601 attccttgga agtgacgtta cagagctgct atgtaggtgc tggaactgaa cccaggcccc
+      661 ctgcaataag cagaaaacgt tcttaactgc tgagctatta ttttcctagc tctcagagct
+      721 gatttctttc tttctttcca tcctccccag acaggccctg gctgtcttgg aagttactgt
+      781 gtaaaccagg ctagtcctga actaacagag agtctcctgg ttctacctcc caagtgctag
+      841 gattaaagat atgcatcatt gccaagtgtg acagcacaag cctttaaccc cagcagtcag
+      901 gaagcagagg gtctgagttt gagacaacca agtctaaagt gtccatgtct caagggggaa
+      961 aaaaattgta ctactaagcc caaaccagaa ctcacttaaa aagtgacttc atttatgcat
+     1021 ataaatgcat gtatgtctgt ataccccatg gtgcttgtgg aggtcagaag agggcatcag
+     1081 atcccctgaa actgtcgtag gttctggttc ccagagagca gtcgaactga aaagctgaaa
+     1141 ttttcatcgt actgacaaga gcgcgggcta gagtggctaa ggcctccgga gatggggtaa
+     1201 cttcacatct cgaccccgcc ccttgagcac gttctcacga cctctcactg ggtagcaagt
+     1261 cgctgctcgg aacctgcggg cggcggaggc gttttcccgg ggcctattgg ctgctggacc
+     1321 taggcagtca agggcggaag tgggaggtgt gggtccgtgc gagctgctct gctgacgcga
+     1381 tctggccaca ctggaggcgg cgggcgaacg gggcttgggg ggtcctcgtg gcaccgtgga
+     1441 gagggcttct ggggctccgt cagggtccgc tacggctcca gcggagcgcg gtggggatgg
+     1501 ggtacacagc cgagcgtccg ccggagcctc cgccatgttc gcggggctcc aggacctggg
+     1561 cgtggccaat ggcgaggacc tgaaagagac cctgaccaac tgcaccgagc ctctcaaggc
+     1621 cattgaacaa tttcaggtgg gcagaagggg ccggggcagc tagggaagct ggacacaatt
+     1681 cggcgcgctc ccgacgcttg gatggaggcg ctaaaggttc tgcgctaggg acccgctgag
+     1741 taactgagtg ttttcccttt tccgctgtta ctatggcgga ccctagtact cggcatccgt
+     1801 ggtgtccgtg ctgacttggc tgcggccaag caaaatgcgt acgcgtttac cctctgcttc
+     1861 tccagacaga gaatggcgtg ttgctgcctt ccctgcagtc ggccctgccc ttcttggatc
+     1921 tacacgggac accgcggctg gagttccatc agtcagtgtt tgatgaacta cgtgacaaac
+     1981 ttctggaacg agtgtcagca attgcctctg agggaaaggc agaggagagg tgggtctcta
+     2041 ccaggaagct gcttatcttt gtgagtagca ttgatggtct ccatggctgc acagccctac
+     2101 ctgtagatac aacctggaat ggaatgtgtt tgagggattc ctcttctctg tatgttctgc
+     2161 atgtggagac acacttcctc agctgtgcaa atctgtgcag gtacaagaag ctggaagacc
+     2221 ttctggaaaa gagcttttct ttggtcaaga tgccatccct acaaccagtg gtgatgtgtg
+     2281 ttatgaaaca cttgcccaag gtgagaactg tggggccagc ctctcagact gtgtgtttag
+     2341 tgcaggaagt tgcttagctc tgggaaagtt tgatggactt gccctccagc aagctctggg
+     2401 ccccttcttt atatcacaca cttcccctgg ttgagccaaa tggaaatatt tatcccttga
+     2461 agtgcagggt gggtcttttg tgggaagagg actgtggaga ttctggatgc ctgaattcac
+     2521 ctgctaagag ttggaggtcc atcacagtct gggctctgta gggtctgtgg gcagctgagg
+     2581 cctcatggag gcagctgtgt cctcatggcg acacaggcag ggcttgcagg gagctgtggt
+     2641 gtttactgtg taggttcctg agaagaagct gaagctggtg atggctgaca aggagttgta
+     2701 ccgggcatgt gctgtggaag tgaagaggca gatttggcaa gacaaccagg ctctctttgg
+     2761 tgatgaagtc tcaccactgc tgaagcagta tatcctagag aaagagagtg cgctcttcag
+     2821 cacagagctc tctgtgctgc acaacttctt cagcccttcc cccaagaccc ggcgccaagg
+     2881 agaggtgaga tgcctctcag ggctgtgcgg ccagcccttc attccatgcc tcttccctgg
+     2941 gtgtagctct tagtttgttt ctgtgagcat gagcttgtgt atgcagcctg gaaaaagttg
+     3001 gttggcagag gttgtggcag gaggattgct gtgagttttg aggccagcct gagtgacagc
+     3061 agatctcatc ttaaaaaaaa aacaaaaaca aaaaaaaaac aacaacaaaa aaaaaacaaa
+     3121 accaaaaaaa aaaaccaaaa aaaaaaaaac aaaaccaaaa aaccaaaaag aaaaaaactg
+     3181 aatgaaagtt tttacctact attctaacct cttactgatg ttggcattat tctaaattca
+     3241 aaatttccct aagtggctta cttatttatt tttgagacag gactttccag tgtagccctg
+     3301 actggcctga aactccctat gtaggttagg ctggctttga actcacagag atccacctgc
+     3361 ctctgttccc aagtgctggg gttaaaggta tggccatcat gtctggctca taagtggcat
+     3421 ctttaaaatg ttttaaatta attttaatta tttgtttgtg tctctgtacg tgtgtctaca
+     3481 gcatgcccac agaggacaga ggagtgggat gcccatagta ctgggttctg tttgtgagat
+     3541 gcctgatgta ggcactagga gttgggctga gctcctctgg aagagcagga tgctcaccac
+     3601 tgagccatct ctccagccca taagcatcat ttttgttgtt gttgttgaga atttattatt
+     3661 acattactta tgtatctgtg taaatgacca tgttgtgtag agactaaaag acaacttcag
+     3721 gagtcttatt ttgttatgtt tttttgagac agggtttctc tttgtaaccc tgggtgtcct
+     3781 ggaactggct ttgtagacca gactggcctt gaactctgcc tgtctccatt tcttgaatac
+     3841 tgggattaaa agcatacaca ccacctctgg ccaccttgcc agttcttaag tcaagacttt
+     3901 ttagctagtt tactttaggc taacactgtt tagtagaagg ataaggttat ataagtcatt
+     3961 caaaattttc tagtgtctac tttgacaaaa atagatgagc tctttttttc tttaatatgg
+     4021 aacagttcat gaatttgtgt gacatccttg tgtggagacc atgctaatct tctctgtgtt
+     4081 attccaattt tagtatatgt gctggaaggg aggaagcgga ggcaggggaa tcactgggac
+     4141 ttgagggcct accagtgtca acagaatcaa acaagtaaaa cctgcaggtt tagtgagagg
+     4201 cccttcctca agtgaataaa gtagagagtg gtaggacaga cttgcaggtt gggcttgggt
+     4261 gcatgcggtt tgagttgctg acctcccagt ggtgctctgg cttcttcctt gcttccccaa
+     4321 gctcccaggt ccctgggcct tcttcacttc tgctttgaca tgtcacgcca cagcaggtct
+     4381 cattcagccc agggtctgt
+//
+LOCUS       Myd88Flox|mutant         4650 bp    DNA     linear   UNK 
+DEFINITION  ORDER=1; TARGET=755,34 3853,34
+ACCESSION   flox
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..756
+                     /name="left"
+     Fragment        757..824
+                     /name="floxsite.1.before"
+     Fragment        825..858
+                     /name="floxsite.1.flox"
+     Fragment        859..883
+                     /name="floxsite.1.after"
+     Fragment        884..3729
+                     /name="change"
+     Fragment        3730..3784
+                     /name="floxsite.2.before"
+     Fragment        3785..3808
+                     /name="floxsite.2.flox"
+     Fragment        3809..3853
+                     /name="floxsite.2.after"
+     Fragment        3854..4650
+                     /name="right"
+     SNP             435
+                     /name="rs236409336"
+                     /allele="A/G"
+     SNP             448
+                     /name="rs223407706"
+                     /allele="A/C"
+     SNP             457
+                     /name="rs259700793"
+                     /allele="C/T"
+     SNP             463
+                     /name="rs250167191"
+                     /allele="A/G"
+     SNP             541
+                     /name="rs224946990"
+                     /allele="A/G"
+     SNP             616
+                     /name="rs262965663"
+                     /allele="A/G"
+     SNP             1069
+                     /name="rs250634245"
+                     /allele="A/G"
+     SNP             1201
+                     /name="rs230004870"
+                     /allele="C/T"
+     SNP             1283
+                     /name="rs28257686"
+                     /allele="A/G"
+     SNP             1290
+                     /name="rs260469154"
+                     /allele="C/T"
+     SNP             1602
+                     /name="rs241634215"
+                     /allele="A/G"
+     SNP             1813
+                     /name="rs216161910"
+                     /allele="A/G"
+     SNP             1838
+                     /name="rs29861527"
+                     /allele="G/T"
+     SNP             1840
+                     /name="rs50571641"
+                     /allele="A/T"
+     SNP             1863
+                     /name="rs33288883"
+                     /allele="G/T"
+     SNP             1877
+                     /name="rs256675518"
+                     /allele="C/T"
+     SNP             1943
+                     /name="rs231847947"
+                     /allele="A/G"
+     SNP             1945
+                     /name="rs213327664"
+                     /allele="C/G"
+     SNP             2061
+                     /name="rs242875153"
+                     /allele="C/T"
+     SNP             2228
+                     /name="rs223277222"
+                     /allele="A/G"
+     SNP             2232
+                     /name="rs259785275"
+                     /allele="G/T"
+     SNP             2433
+                     /name="rs28257687"
+                     /allele="C/T"
+     SNP             2434
+                     /name="rs253796782"
+                     /allele="G/T"
+     SNP             2534
+                     /name="rs232886585"
+                     /allele="A/G"
+     SNP             2538
+                     /name="rs263166115"
+                     /allele="C/T"
+     SNP             2629
+                     /name="rs246810465"
+                     /allele="A/G"
+     SNP             2673
+                     /name="rs219643960"
+                     /allele="A/T"
+     SNP             2723
+                     /name="rs256834845"
+                     /allele="A/G"
+     SNP             2770
+                     /name="rs237430486"
+                     /allele="A/C"
+     SNP             3024
+                     /name="rs223620500"
+                     /allele="A/G"
+     SNP             3035
+                     /name="rs263944530"
+                     /allele="A/G"
+     SNP             3110
+                     /name="rs238970312"
+                     /allele="C/T"
+     SNP             3174
+                     /name="rs224487292"
+                     /allele="C/T"
+     SNP             3263
+                     /name="rs221448004"
+                     /allele="-/G"
+     SNP             3281
+                     /name="rs248486888"
+                     /allele="-/T"
+     SNP             3366
+                     /name="rs258245743"
+                     /allele="A/G"
+     SNP             3522
+                     /name="rs231723034"
+                     /allele="A/G"
+     SNP             3543
+                     /name="rs213383231"
+                     /allele="C/T"
+     SNP             3589
+                     /name="rs242757967"
+                     /allele="A/G"
+     SNP             3971
+                     /name="rs218882283"
+                     /allele="C/T"
+     SNP             4044
+                     /name="rs258900520"
+                     /allele="C/T"
+     SNP             4065
+                     /name="rs232275257"
+                     /allele="A/G"
+     SNP             4078
+                     /name="rs265460559"
+                     /allele="A/G"
+     SNP             4088
+                     /name="rs251525876"
+                     /allele="C/T"
+     SNP             4112
+                     /name="rs225715734"
+                     /allele="A/G"
+     SNP             4439
+                     /name="rs232545299"
+                     /allele="-/C"
+     SNP             4467
+                     /name="rs28257688"
+                     /allele="C/T"
+     SNP             4482
+                     /name="rs237258743"
+                     /allele="C/G"
+     SNP             4500
+                     /name="rs223495550"
+                     /allele="A/G"
+     SNP             4514
+                     /name="rs264112890"
+                     /allele="C/T"
+     SNP             4531
+                     /name="rs28257689"
+                     /allele="C/G"
+ORIGIN      
+        1 gtggtgttct tttcttcagg attgaaatgg cagtctggga actaacccta agctttctga
+       61 cctaggatag aataggaaaa ggcaatgtgg gacaatctaa tccactcacc taaggtccag
+      121 catctacctg aggatcaggg atgcttgctg ggctgaggaa ctattgggat gggatgggaa
+      181 gtcagaacct ggggtgcaga cacctgtctg cagacagcct tgcctagccc actgaggtag
+      241 gacccaggga atcagctcac cagacactgg ccctactccc ctggagcctt gacctgaaga
+      301 gtcaactggg tttggtaact tgtgttctga gaacccacgc ccaaagcctt cccaccctag
+      361 cccctgccca atgatggttc cctcagcact gttgatctgc cttcctactt agaagtagcc
+      421 cccttcagga gccttgccct gcagctagta atagcaattt ctccagagct ctctccatac
+      481 tttcttccac acccagacac agatctcact aaagaacgtt tttaaaatgt attttatgtg
+      541 tatggtgttt tgtttgcttg tatgtatgtg tatgtgtgct tagtacccag aagacattag
+      601 attccttgga agtgacgtta cagagctgct atgtaggtgc tggaactgaa cccaggcccc
+      661 ctgcaataag cagaaaacgt tcttaactgc tgagctatta ttttcctagc tctcagagct
+      721 gatttctttc tttctttcca tcctccccag acaggcgaat tcggccaaac ctgcaggaag
+      781 taccagagct ccctaggttc tagaaccggt gacgttaagc tcgaataact tcgtataatg
+      841 tatgctatac gaagttatcc tgcaggtcga tcgagaccgt acgcctggct gtcttggaag
+      901 ttactgtgta aaccaggcta gtcctgaact aacagagagt ctcctggttc tacctcccaa
+      961 gtgctaggat taaagatatg catcattgcc aagtgtgaca gcacaagcct ttaaccccag
+     1021 cagtcaggaa gcagagggtc tgagtttgag acaaccaagt ctaaagtgtc catgtctcaa
+     1081 gggggaaaaa aattgtacta ctaagcccaa accagaactc acttaaaaag tgacttcatt
+     1141 tatgcatata aatgcatgta tgtctgtata ccccatggtg cttgtggagg tcagaagagg
+     1201 gcatcagatc ccctgaaact gtcgtaggtt ctggttccca gagagcagtc gaactgaaaa
+     1261 gctgaaattt tcatcgtact gacaagagcg cgggctagag tggctaaggc ctccggagat
+     1321 ggggtaactt cacatctcga ccccgcccct tgagcacgtt ctcacgacct ctcactgggt
+     1381 agcaagtcgc tgctcggaac ctgcgggcgg cggaggcgtt ttcccggggc ctattggctg
+     1441 ctggacctag gcagtcaagg gcggaagtgg gaggtgtggg tccgtgcgag ctgctctgct
+     1501 gacgcgatct ggccacactg gaggcggcgg gcgaacgggg cttggggggt cctcgtggca
+     1561 ccgtggagag ggcttctggg gctccgtcag ggtccgctac ggctccagcg gagcgcggtg
+     1621 gggatggggt acacagccga gcgtccgccg gagcctccgc catgttcgcg gggctccagg
+     1681 acctgggcgt ggccaatggc gaggacctga aagagaccct gaccaactgc accgagcctc
+     1741 tcaaggccat tgaacaattt caggtgggca gaaggggccg gggcagctag ggaagctgga
+     1801 cacaattcgg cgcgctcccg acgcttggat ggaggcgcta aaggttctgc gctagggacc
+     1861 cgctgagtaa ctgagtgttt tcccttttcc gctgttacta tggcggaccc tagtactcgg
+     1921 catccgtggt gtccgtgctg acttggctgc ggccaagcaa aatgcgtacg cgtttaccct
+     1981 ctgcttctcc agacagagaa tggcgtgttg ctgccttccc tgcagtcggc cctgcccttc
+     2041 ttggatctac acgggacacc gcggctggag ttccatcagt cagtgtttga tgaactacgt
+     2101 gacaaacttc tggaacgagt gtcagcaatt gcctctgagg gaaaggcaga ggagaggtgg
+     2161 gtctctacca ggaagctgct tatctttgtg agtagcattg atggtctcca tggctgcaca
+     2221 gccctacctg tagatacaac ctggaatgga atgtgtttga gggattcctc ttctctgtat
+     2281 gttctgcatg tggagacaca cttcctcagc tgtgcaaatc tgtgcaggta caagaagctg
+     2341 gaagaccttc tggaaaagag cttttctttg gtcaagatgc catccctaca accagtggtg
+     2401 atgtgtgtta tgaaacactt gcccaaggtg agaactgtgg ggccagcctc tcagactgtg
+     2461 tgtttagtgc aggaagttgc ttagctctgg gaaagtttga tggacttgcc ctccagcaag
+     2521 ctctgggccc cttctttata tcacacactt cccctggttg agccaaatgg aaatatttat
+     2581 cccttgaagt gcagggtggg tcttttgtgg gaagaggact gtggagattc tggatgcctg
+     2641 aattcacctg ctaagagttg gaggtccatc acagtctggg ctctgtaggg tctgtgggca
+     2701 gctgaggcct catggaggca gctgtgtcct catggcgaca caggcagggc ttgcagggag
+     2761 ctgtggtgtt tactgtgtag gttcctgaga agaagctgaa gctggtgatg gctgacaagg
+     2821 agttgtaccg ggcatgtgct gtggaagtga agaggcagat ttggcaagac aaccaggctc
+     2881 tctttggtga tgaagtctca ccactgctga agcagtatat cctagagaaa gagagtgcgc
+     2941 tcttcagcac agagctctct gtgctgcaca acttcttcag cccttccccc aagacccggc
+     3001 gccaaggaga ggtgagatgc ctctcagggc tgtgcggcca gcccttcatt ccatgcctct
+     3061 tccctgggtg tagctcttag tttgtttctg tgagcatgag cttgtgtatg cagcctggaa
+     3121 aaagttggtt ggcagaggtt gtggcaggag gattgctgtg agttttgagg ccagcctgag
+     3181 tgacagcaga tctcatctta aaaaaaaaac aaaaacaaaa aaaaaacaac aacaaaaaaa
+     3241 aaacaaaacc aaaaaaaaaa accaaaaaaa aaaaaacaaa accaaaaaac caaaaagaaa
+     3301 aaaactgaat gaaagttttt acctactatt ctaacctctt actgatgttg gcattattct
+     3361 aaattcaaaa tttccctaag tggcttactt atttattttt gagacaggac tttccagtgt
+     3421 agccctgact ggcctgaaac tccctatgta ggttaggctg gctttgaact cacagagatc
+     3481 cacctgcctc tgttcccaag tgctggggtt aaaggtatgg ccatcatgtc tggctcataa
+     3541 gtggcatctt taaaatgttt taaattaatt ttaattattt gtttgtgtct ctgtacgtgt
+     3601 gtctacagca tgcccacaga ggacagagga gtgggatgcc catagtactg ggttctgttt
+     3661 gtgagatgcc tgatgtaggc actaggagtt gggctgagct cctctggaag agcaggatgc
+     3721 tcaccactgg tcgaccgcgg atctagagat ctgataattc cgatcatatt caataaccct
+     3781 taatataatg tatgctatac gaagttatta ggtccctcga agaggttcac tagtactggc
+     3841 caatcggcgc gccagccatc tctccagccc ataagcatca tttttgttgt tgttgttgag
+     3901 aatttattat tacattactt atgtatctgt gtaaatgacc atgttgtgta gagactaaaa
+     3961 gacaacttca ggagtcttat tttgttatgt ttttttgaga cagggtttct ctttgtaacc
+     4021 ctgggtgtcc tggaactggc tttgtagacc agactggcct tgaactctgc ctgtctccat
+     4081 ttcttgaata ctgggattaa aagcatacac accacctctg gccaccttgc cagttcttaa
+     4141 gtcaagactt tttagctagt ttactttagg ctaacactgt ttagtagaag gataaggtta
+     4201 tataagtcat tcaaaatttt ctagtgtcta ctttgacaaa aatagatgag ctcttttttt
+     4261 ctttaatatg gaacagttca tgaatttgtg tgacatcctt gtgtggagac catgctaatc
+     4321 ttctctgtgt tattccaatt ttagtatatg tgctggaagg gaggaagcgg aggcagggga
+     4381 atcactggga cttgagggcc taccagtgtc aacagaatca aacaagtaaa acctgcaggt
+     4441 ttagtgagag gcccttcctc aagtgaataa agtagagagt ggtaggacag acttgcaggt
+     4501 tgggcttggg tgcatgcggt ttgagttgct gacctcccag tggtgctctg gcttcttcct
+     4561 tgcttcccca agctcccagg tccctgggcc ttcttcactt ctgctttgac atgtcacgcc
+     4621 acagcaggtc tcattcagcc cagggtctgt
+//

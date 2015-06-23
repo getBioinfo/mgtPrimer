@@ -1,0 +1,59 @@
+#!/usr/bin/perl -w
+###################################################################################
+# mouseGTP                                                                        #
+#   Read in knockout mice sequence, design primers for genotyping.                #
+# Run:                                                                            #
+#   perl mouseGTP -i seq.ssf -s snp.txt                                           # 
+# Input:                                                                          #
+#   seq.ssf: Sequence file in Simple Sequence Format                              #
+#   snp.txt: SNP list file                                                        #
+# Author:  Hong Xu                                                                #
+# History:                                                                        #
+#   05/08/2014 (Hong Xu)  Created.                                                #
+###################################################################################
+ 
+use strict;
+use lib './modules';
+use Getopt::Std;
+use Digest::MD5 qw(md5 md5_hex md5_base64);
+use Config::Tiny;
+
+# get command line arguments
+my %args;
+my ($infile, $snpfile);
+getopt("is", \%args);
+if (!$args{i}) {
+  die "Please specify input file name!";
+}
+else {
+  $infile = $args{i};
+}
+if (!$args{s}) {
+  die "Please specify SNP list file name!";
+}
+else {
+  $snpfile = $args{s};
+}
+
+# get general configuration
+my $CFG = Config::Tiny->new;
+$CFG = Config::Tiny->read( 'mmGTP.conf' );
+ 
+my $tmptop = $CFG->{directory}->{tmpdir};
+my $rsttop = $CFG->{directory}->{result};
+my $tmpnm = md5_hex(rand().$$.time());
+my $outfile = $rsttop . '/' . $tmpnm . '.prm.txt';
+ 
+# call perl program to prepare sequence in Genbank file
+my $gbfile = $tmptop . '/' . $tmpnm . '.gb';
+
+# call program to mask the sequence
+print "PROGRAM RUNNING: Masking the sequence for primer design ......\n";
+system("perl mouseGT_SeqPrep.pl -i $infile -s $snpfile -o $gbfile -d $tmptop");
+
+# call program to design primer
+print "PROGRAM RUNNING: Doing primer design ......\n";
+system("perl mouseGT_PrimerDesign.pl -g $gbfile -o $outfile -d $tmptop -t 1 -s 1");
+
+# output result file
+print "PROGRAM DONE: Please check out result file - $outfile.\n";

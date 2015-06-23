@@ -1,0 +1,70 @@
+LOCUS       Igh-6tm1Che|wild          809 bp    DNA     linear   UNK 
+DEFINITION  ORDER=1; TARGET=307,4
+ACCESSION   replace
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..309
+                     /name="left"
+     Fragment        310..809
+                     /name="change"
+     SNP             197
+                     /name="rs30926646"
+                     /allele="G/T"
+     SNP             262
+                     /name="rs30926644"
+                     /allele="C/T"
+     SNP             439
+                     /name="rs30925752"
+                     /allele="C/G"
+     SNP             517
+                     /name="rs30925750"
+                     /allele="C/T"
+     SNP             532
+                     /name="rs30925748"
+                     /allele="C/T"
+     SNP             565
+                     /name="rs30925746"
+                     /allele="A/C"
+ORIGIN      
+        1 tatttcacag cagcattgca gactagctaa aggcagaagg gagagactct ggagtgtctc
+       61 aaatgtttaa gcattttaaa ataaatactg tatgcttatt cttgggctgc cagaatttct
+      121 ctcatcacat aaatgaagaa ggaagatcaa gtgctgaagt ccatagatcg gtaggaactt
+      181 cctgttttgc acacagctca aatgtaggaa accacaagct gttgggaaag gagggacttg
+      241 gaggatgctt aaatagcagg catgctttct ctagtcagcc agcagctgac ccagcctcca
+      301 gtcaccatga agactctcct gactctggga ctcctcctgc tttctgtcac tgctcaggcc
+      361 aaggtctatg aacgttgtga gtttgccaga actctgaaaa ggaatggaat ggctggctac
+      421 tatggagtca gcctggccga ctgtaagtct cttcttgatg gctccagcta atcgctcaga
+      481 acagggacag gggagcagtg agtgaccaga gaggaaactg cagcatacac tgtcatggtt
+      541 gttccctgtg tgactgaggt catttgacag aaagcatcag tttttgtctt ttgaattaga
+      601 gatgctgggg tgagggcttg gaagggacat tgtgtgccat ggtaaggcaa caggacctga
+      661 ggggctcagg gactgtcact aaattttctg ttgcttcaga ctcaacatga gtaagggggc
+      721 tgagaagaga tgggagagtc agccagagat cctggactga catggtattt gtcttcactt
+      781 ctcttaccgt ggtgtgtaac ttttgagat
+//
+LOCUS       Lyz2-Cre|mutant          726 bp    DNA     linear   UNK 
+DEFINITION  ORDER=0; TARGET=307,4
+ACCESSION   replace
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..309
+                     /name="left"
+     Fragment        310..726
+                     /name="change"
+     SNP             197
+                     /name="rs30926646"
+                     /allele="G/T"
+ORIGIN      
+        1 tatttcacag cagcattgca gactagctaa aggcagaagg gagagactct ggagtgtctc
+       61 aaatgtttaa gcattttaaa ataaatactg tatgcttatt cttgggctgc cagaatttct
+      121 ctcatcacat aaatgaagaa ggaagatcaa gtgctgaagt ccatagatcg gtaggaactt
+      181 cctgttttgc acacagctca aatgtaggaa accacaagct gttgggaaag gagggacttg
+      241 gaggatgctt aaatagcagg catgctttct ctagtcagcc agcagctgac ccagcctcca
+      301 gtcaccatgc ccaagaagaa gaggaaggtg tccaatttac tgaccgtaca ccaaaatttg
+      361 cctgcattac cggtcgatgc aacgagtgat gaggttcgca agaacctgat ggacatgttc
+      421 agggatcgcc aggcgttttc tgagcatacc tggaaaatgc ttctgtccgt ttgccggtcg
+      481 tgggcggcat ggtgcaagtt gaataaccgg aaatggtttc ccgcagaacc tgaagatgtt
+      541 cgcgattatc ttctatatct tcaggcgcgc ggtctggcag taaaaactat ccagcaacat
+      601 ttgggccagc taaacatgct tcatcgtcgg tccgggctgc cacgaccaag tgacagcaat
+      661 gctgtttcac tggttatgcg gcggatccga aaagaaaacg ttgatgccgg tgaacgtgca
+      721 aaacag
+//

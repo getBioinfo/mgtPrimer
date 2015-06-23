@@ -1,0 +1,107 @@
+LOCUS       Igh-6tm1Che|wild         2285 bp    DNA     linear   UNK 
+DEFINITION  ORDER=1; TARGET=307,4 2168,4
+ACCESSION   deletion
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..309
+                     /name="left"
+     Fragment        310..2169
+                     /name="change"
+     Fragment        2170..2285
+                     /name="right"
+     SNP             397
+                     /name="rs29198472"
+                     /allele="A/G"
+     SNP             510
+                     /name="rs37278847"
+                     /allele="C/T"
+     SNP             523
+                     /name="rs29491453"
+                     /allele="A/C"
+     SNP             682
+                     /name="rs29197759"
+                     /allele="A/T"
+     SNP             1025
+                     /name="rs36819972"
+                     /allele="C/G"
+     SNP             1159
+                     /name="rs36517704"
+                     /allele="A/G"
+     SNP             1226
+                     /name="rs46290358"
+                     /allele="C/T"
+     SNP             1323
+                     /name="rs37156730"
+                     /allele="C/T"
+     SNP             1458
+                     /name="rs52138920"
+                     /allele="A/T"
+     SNP             1556
+                     /name="rs37052779"
+                     /allele="A/G"
+     SNP             1963
+                     /name="rs29187806"
+                     /allele="C/T"
+     SNP             2086
+                     /name="rs47778983"
+                     /allele="C/T"
+ORIGIN      
+        1 tgtacctgct gccaccagct cgtgagcaac tgaacctgag ggagtcagcc acagtcacct
+       61 gcctggtgaa gggcttctct cctgcagaca tcagtgtgca gtggcttcag agagggcaac
+      121 tcttgcccca agagaagtat gtgaccagtg ccccgatgcc agagcctggg gccccaggct
+      181 tctactttac ccacagcatc ctgactgtga cagaggagga atggaactcc ggagagacct
+      241 atacctgtgt tgtaggccac gaggccctgc cacacctggt gaccgagagg accgtggaca
+      301 agtccactgg taaacccaca ctgtacaatg tctccctgat catgtctgac acaggcggca
+      361 cctgctattg accatgctag cgctcaacca ggcaggccct gggtgtccag ttgctctgtg
+      421 tatgcaaact aaccatgtca gagtgagatg ttgcatttta taaaaattag aaataaaaaa
+      481 aatccattca aacgtcactg gttttgatta tacaatgctc atgcctgctg agacagttgt
+      541 gttttgcttg ctctgcacac accctgcata cttgcctcca ccctggccct tcctctacct
+      601 tgccagtttc ctccttgtgt gtgaactcag tcaggcttac aacagacaga gtatgaacat
+      661 gcgattcctc cagctacttc tagatatatg gctgaaagct tgcctaacct ggtgcaggca
+      721 gcattcaggc acatatatag acacacatgc atttatacat agatatatag gtacacatgt
+      781 gtagacacat acatgaatgt gtattcatgg acacacagac aaaggtacac atatatacac
+      841 atgagttcat gcgcacacac atgcatggac acttacaaac gccttcagag acaaataggc
+      901 atagacacac aaccactcac agaaacagat accaatatgc atggtcctgt gtacacagaa
+      961 acagactata ggcaaatata cacaaataaa ctatatagat acaaagatat gcatatacac
+     1021 acatgtacag aaacatcttc acatgtgtac actaacatgt gaacaggtat agcacacaga
+     1081 tacacctgga ctctgaccag ggctgtaatc tccaaggctc acggctcaga gagcctacac
+     1141 taggctgggt cactgatact cctcaggagc ccactctatg attgggagag ataaccccag
+     1201 gtacaaagta tgcctatctg tctcaacacc atggggcaga agatactcca ctaaccaccc
+     1261 atgacagaaa gttagccttg gctgtgtctc cattaataga acacctcaga agaccaatgt
+     1321 gaaattgcct aacccactca cacccaccct gatctccagt tcaaaatgca gaaaacataa
+     1381 tgcagttgtc caaaagatgc cccaaccaca cacacacaca cacacacaca cacacacaca
+     1441 cacacacaca cacacacaca cacacaccat caaggagcct ctgtaaggag tcaccaccca
+     1501 ataacactgc ctctttgggc tcatatcctg gacattcttc atattcatat ccatttgggg
+     1561 cctaggcttt agatatcccc aagggctcat ctttacaggg atcagagatc ccaataaatg
+     1621 ccctggtccc acagcctccc tcaggtatct gtctgtttat ctcttggtac caagacccaa
+     1681 cattgctggc aggggtagga caagcaacgc acgggaactc tgatcaaaga aagtcatgag
+     1741 atgcctgagt ccttcaggaa gtaaggaggg acaacctctg gtatccctgt tcttattgct
+     1801 aaagcccaag agacagggag acctgctcta aattctcagt ctaaacagca ccgatggcac
+     1861 cacctgctca gggaaagtcc agagcacacc aatatcattt tgccacagtt cctgagtctg
+     1921 cctttaccca ggtccataca ttgcatctgt cttgcttgct ctgctgcccc agggctcctg
+     1981 gaacaaaggc tccaaattag tgtgtcctac agcttggcct gttctgtgcc tccgtctagc
+     2041 ttgagctatt aggggaccag tcaatactcg ctaagattct ccagaaccat cagggcaccc
+     2101 caacccttat gcaaatgctc agtcacccca agacttggct tgaccctccc tctctgtgtc
+     2161 ccttcataga gggggaggtg aatgctgagg aggaaggctt tgagaacctg tggaccactg
+     2221 cctccacctt catcgtcctc ttcctcctga gcctcttcta cagcaccacc gtcaccctgt
+     2281 tcaag
+//
+LOCUS       Igh-6tm1Che|mutant          425 bp    DNA     linear   UNK 
+DEFINITION  ORDER=0; TARGET=307,4 308,4
+ACCESSION   deletion
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..309
+                     /name="left"
+     Fragment        310..425
+                     /name="right"
+ORIGIN      
+        1 tgtacctgct gccaccagct cgtgagcaac tgaacctgag ggagtcagcc acagtcacct
+       61 gcctggtgaa gggcttctct cctgcagaca tcagtgtgca gtggcttcag agagggcaac
+      121 tcttgcccca agagaagtat gtgaccagtg ccccgatgcc agagcctggg gccccaggct
+      181 tctactttac ccacagcatc ctgactgtga cagaggagga atggaactcc ggagagacct
+      241 atacctgtgt tgtaggccac gaggccctgc cacacctggt gaccgagagg accgtggaca
+      301 agtccactga gggggaggtg aatgctgagg aggaaggctt tgagaacctg tggaccactg
+      361 cctccacctt catcgtcctc ttcctcctga gcctcttcta cagcaccacc gtcaccctgt
+      421 tcaag
+//

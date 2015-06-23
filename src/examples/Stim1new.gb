@@ -1,0 +1,182 @@
+LOCUS       Stim1|wild               916 bp    DNA     linear   UNK 
+DEFINITION  ORDER=0; TARGET=403,4 405,4
+ACCESSION   insertion
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..405
+                     /name="left"
+     Fragment        406
+                     /name="change"
+     Fragment        407..916
+                     /name="right"
+     SNP             102
+                     /name="rs31859416"
+                     /allele="A/G"
+     SNP             114
+                     /name="rs244974481"
+                     /allele="C/G"
+     SNP             140
+                     /name="rs31859419"
+                     /allele="C/T"
+     SNP             262
+                     /name="rs254097387"
+                     /allele="C/T"
+     SNP             275
+                     /name="rs213009474"
+                     /allele="C/T"
+     SNP             376
+                     /name="rs260919824"
+                     /allele="-/C"
+     SNP             538
+                     /name="rs31860328"
+                     /allele="A/C"
+     SNP             551
+                     /name="rs245458130"
+                     /allele="A/G"
+     SNP             555
+                     /name="rs216106861"
+                     /allele="A/G"
+     SNP             566
+                     /name="rs31860331"
+                     /allele="C/G"
+     SNP             568
+                     /name="rs250560564"
+                     /allele="A/G"
+     SNP             579
+                     /name="rs236176462"
+                     /allele="A/G"
+     SNP             598
+                     /name="rs235465270"
+                     /allele="G/T"
+     SNP             608
+                     /name="rs263732216"
+                     /allele="A/G"
+     SNP             619
+                     /name="rs31861124"
+                     /allele="C/T"
+     SNP             650
+                     /name="rs263187465"
+                     /allele="C/T"
+     SNP             674
+                     /name="rs223896452"
+                     /allele="C/T"
+     SNP             686
+                     /name="rs242608464"
+                     /allele="G/T"
+     SNP             737
+                     /name="rs239435083"
+                     /allele="C/T"
+     SNP             760
+                     /name="rs252464186"
+                     /allele="C/T"
+     SNP             862
+                     /name="rs218433966"
+                     /allele="A/G"
+ORIGIN      
+        1 ctttgaggcc gtccgaaaca tccataagct gatggatgac gatgccaatg gtgatgtgga
+       61 tgtggaagaa agtgatgagg taatctttct taccttctat ggctctcctc tctgtgtgtg
+      121 aaatgatccc tgaaagcggc ctagactaat ctgtgtggaa agacggcctc tgcttgttgc
+      181 cttctaggaa ttaattcctg tcaggtggga tgatgcccag cagaacaggt ctccgtttgc
+      241 tgactggtgg atagcataac attgacctaa ctatctggga gggaagggga tccctccgat
+      301 ggtctcacgg tctctagttt ccctgggtct ttaatgtggt cttgctgtgg aaagagaatg
+      361 ttaatctgta ttcagccttc tgttggtatg tgagaaagaa ggcaaactcc tcatagttcc
+      421 tgactcctca cagaagcatt ttaatcgaca acatatgcag agcccacctt ttggggtttt
+      481 atattcttat ttgggaggaa gaagcaaatc tcaggatggt cagtctatct ttaaaggaat
+      541 agtttacaga agccaggtaa taagagtaga gaaagaaaac tcttaaaaag agctgcttta
+      601 ctgttgtacc tttggcatca ctatagttcc aggtcagcag agcccagagt aaaagatcat
+      661 cacgtaggaa agatgtgaag gtttcttatt tcaagctcaa cacaaactga tagctgtgta
+      721 tagctgtggc aagaagcaca gtggagtggt agcagtttgt tgaaggccat gctaaatatt
+      781 caatagtcac atagtgtaca ttaggacaga gaagcctagt ctcttctttt tgtaaatagt
+      841 ctacctttga gttttgtgtc caattttgga tgtcacatca tcagaatgat ttaggacagc
+      901 aagagaatgt ccagag
+//
+LOCUS       Stim1|mutant             964 bp    DNA     linear   UNK 
+DEFINITION  ORDER=1; TARGET=403,4 453,4
+ACCESSION   insertion
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..405
+                     /name="left"
+     Fragment        406..454
+                     /name="change"
+     Fragment        455..964
+                     /name="right"
+     SNP             102
+                     /name="rs31859416"
+                     /allele="A/G"
+     SNP             114
+                     /name="rs244974481"
+                     /allele="C/G"
+     SNP             140
+                     /name="rs31859419"
+                     /allele="C/T"
+     SNP             262
+                     /name="rs254097387"
+                     /allele="C/T"
+     SNP             275
+                     /name="rs213009474"
+                     /allele="C/T"
+     SNP             586
+                     /name="rs31860328"
+                     /allele="A/C"
+     SNP             599
+                     /name="rs245458130"
+                     /allele="A/G"
+     SNP             603
+                     /name="rs216106861"
+                     /allele="A/G"
+     SNP             614
+                     /name="rs31860331"
+                     /allele="C/G"
+     SNP             616
+                     /name="rs250560564"
+                     /allele="A/G"
+     SNP             627
+                     /name="rs236176462"
+                     /allele="A/G"
+     SNP             646
+                     /name="rs235465270"
+                     /allele="G/T"
+     SNP             656
+                     /name="rs263732216"
+                     /allele="A/G"
+     SNP             667
+                     /name="rs31861124"
+                     /allele="C/T"
+     SNP             698
+                     /name="rs263187465"
+                     /allele="C/T"
+     SNP             722
+                     /name="rs223896452"
+                     /allele="C/T"
+     SNP             734
+                     /name="rs242608464"
+                     /allele="G/T"
+     SNP             785
+                     /name="rs239435083"
+                     /allele="C/T"
+     SNP             808
+                     /name="rs252464186"
+                     /allele="C/T"
+     SNP             910
+                     /name="rs218433966"
+                     /allele="A/G"
+ORIGIN      
+        1 ctttgaggcc gtccgaaaca tccataagct gatggatgac gatgccaatg gtgatgtgga
+       61 tgtggaagaa agtgatgagg taatctttct taccttctat ggctctcctc tctgtgtgtg
+      121 aaatgatccc tgaaagcggc ctagactaat ctgtgtggaa agacggcctc tgcttgttgc
+      181 cttctaggaa ttaattcctg tcaggtggga tgatgcccag cagaacaggt ctccgtttgc
+      241 tgactggtgg atagcataac attgacctaa ctatctggga gggaagggga tccctccgat
+      301 ggtctcacgg tctctagttt ccctgggtct ttaatgtggt cttgctgtgg aaagagaatg
+      361 ttaatctgta ttcagccttc tgttggtatg tgagaaagaa ggcaagtcga cataacttcg
+      421 tataatgtat gctatacgaa gttataagct tgttctcctc atagttcctg actcctcaca
+      481 gaagcatttt aatcgacaac atatgcagag cccacctttt ggggttttat attcttattt
+      541 gggaggaaga agcaaatctc aggatggtca gtctatcttt aaaggaatag tttacagaag
+      601 ccaggtaata agagtagaga aagaaaactc ttaaaaagag ctgctttact gttgtacctt
+      661 tggcatcact atagttccag gtcagcagag cccagagtaa aagatcatca cgtaggaaag
+      721 atgtgaaggt ttcttatttc aagctcaaca caaactgata gctgtgtata gctgtggcaa
+      781 gaagcacagt ggagtggtag cagtttgttg aaggccatgc taaatattca atagtcacat
+      841 agtgtacatt aggacagaga agcctagtct cttctttttg taaatagtct acctttgagt
+      901 tttgtgtcca attttggatg tcacatcatc agaatgattt aggacagcaa gagaatgtcc
+      961 agag
+//

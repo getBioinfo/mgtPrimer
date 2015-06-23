@@ -1,0 +1,215 @@
+LOCUS       Myd88Flox|wild          2300 bp    DNA     linear   UNK 
+DEFINITION  ORDER=0; TARGET=880,2 1271,2
+ACCESSION   flox
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..881
+                     /name="left"
+     Fragment        882..1271
+                     /name="change"
+     Fragment        1272..2300
+                     /name="right"
+     SNP             236
+                     /name="rs229618527"
+                     /allele="A/T"
+     SNP             289
+                     /name="rs244887844"
+                     /allele="A/G"
+     SNP             435
+                     /name="rs36383131"
+                     /allele="A/T"
+     SNP             723
+                     /name="rs219155110"
+                     /allele="A/G"
+     SNP             780
+                     /name="rs233152781"
+                     /allele="A/G"
+     SNP             997
+                     /name="rs212006036"
+                     /allele="C/T"
+     SNP             1655
+                     /name="rs256406226"
+                     /allele="A/G"
+     SNP             1711
+                     /name="rs222554571"
+                     /allele="A/G"
+     SNP             2020
+                     /name="rs226891786"
+                     /allele="A/G"
+     SNP             2093
+                     /name="rs252691131"
+                     /allele="C/T"
+     SNP             2105
+                     /name="rs230822669"
+                     /allele="C/T"
+     SNP             2184
+                     /name="rs263459628"
+                     /allele="C/T"
+     SNP             2198
+                     /name="rs212128620"
+                     /allele="A/G"
+     SNP             2220
+                     /name="rs250503742"
+                     /allele="A/G"
+     SNP             2223
+                     /name="rs236180851"
+                     /allele="C/T"
+     SNP             2228
+                     /name="rs217018885"
+                     /allele="A/C"
+ORIGIN      
+        1 ttctgacatt caatcctctg ctccgattgc tctgtgccct gctagatgcc cagtttggct
+       61 ccattctcta gagccttaga aagggaaggc aggaggaagg ctcagagaag caggctgact
+      121 ttggagtcct ctcagatgct cattttggga gagtccaaaa ggaagtgtta gtttgtagag
+      181 ccatccatgg taccagtggc tggggaaggc tcggcccaag taggcccttt ttaaattttt
+      241 tttttaacat ttatttatta ttatacataa gtacactgta gctgcctgca gacacaccag
+      301 aaaagggcgt cagatctcat tatgggtggt tgtgggattt gaactcagga ccttcggaag
+      361 agcagtcagt gctcttaccg gctgagccat ctcgccagcc ccaagtaggc tctttaaact
+      421 aattcaggat tttgagtgtg tgtacagcag caacctgggg catggggggc gggggtgtcg
+      481 gggatggggt gggaggagga gcctctacac ccttctcttc tccacagagg aggactgcca
+      541 gaaatactta ggtaagcagc agaaccagga gtccgagaag cctttacagg tggccagagt
+      601 ggaaagcagt gtcccacaaa caaaggaact gggaggcatc accacccttg atgaccccct
+      661 aggtaagggc ccagtactgt gcccctaggt agaataggtg ggccacagcc tcaaacatgt
+      721 gacctgcaga gggcatggat accggaagca gatggatgga cctgggacct tgggcaagct
+      781 gctcattctg agccttggtt tccccatcta agaaatggga ataatggcag tcctctccca
+      841 gagtggttct gagactttaa tggcatgcct ccatcatagt taaccgggat ttcatctggg
+      901 aggaagttat ctgttcactg gtagagaggg catgtatatg acattgcttt gatatggata
+      961 caggcccagg ttcccttgat ggaagactcc aggttgggct ccttccagcc ttctgcagag
+     1021 gctgattgat tcccttgtcc cctgtcctca ggacaaacgc cggaactttt cgatgccttt
+     1081 atctgctact gccccaacga tatcgagttt gtgcaggaga tgatccggca actagaacag
+     1141 acagactatc ggcttaagtt gtgtgtgtcc gaccgtgacg tcctgccggg cacctgtgtc
+     1201 tggtccattg ccagcgagct aattgagaaa aggttggtta aacatctaag agggtaggtg
+     1261 ggtgaatgca tgaaacccag aggtccagat gcaaggactg tcctgctagc tgggctctgt
+     1321 cccgcctggg taatgtagtc cttcctgacc ccatcctctg aaggaagtca ccgcagtgcc
+     1381 actctccctc aggtgtcgcc gcatggtggt ggttgtttct gacgattatc tacagagcaa
+     1441 ggaatgtgac ttccagacca agtttgcact cagcctgtct ccaggtaagc ttaggcctgc
+     1501 tttggtcaaa gagagagtag agatatagcc ttaggatgat agtccaggaa tgcaaaacca
+     1561 aagcactaca gatctctgag gacggacctg tgtacttcct tatgtagtgg atatgtatca
+     1621 tggatacctg gttggtggag agctggtgtt agcccgtgct ttagggactg agcctgtccc
+     1681 accctagggc cccacgtggt cctaatacca caccctttgg ccttcaggtg tccaacagaa
+     1741 gcgactgatt cctattaaat acaaggcgat gaagaaggac tttcccagta tcctgcggtt
+     1801 catcactata tgcgactata ccaacccttg caccaagtcc tggttctgga cccgccttgc
+     1861 caaggctttg tccctgccct gaagatgacc ctgggagccc taggtatgtc agtctgtctg
+     1921 tgttcttccg cttgcctcct ttgacactgt agtggggagc ttgtggtccg tctatcccta
+     1981 gacatctaca gtagccagat gtcatctctc aagtccttac ggaaccagtg actgcaagtg
+     2041 acattatgac ttgccgggtt gccagccagg acagtgttta tcagggctgc atgagtctaa
+     2101 gcgaaggact agttgagcta catctcagac atctttggcc tcagggtctc ctcctgagaa
+     2161 acaggatatg gagatcaggc agggaaatag tgaggcactc ttctggctat cctaggagac
+     2221 ccagtgtggg ctgaagggga gctgaaggag cacacactgg ctgttaagga gcaccacagg
+     2281 cttgccagga cagctgcttt
+//
+LOCUS       Myd88Flox|mutant         2505 bp    DNA     linear   UNK 
+DEFINITION  ORDER=1; TARGET=880,34 1476,34
+ACCESSION   flox
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..881
+                     /name="left"
+     Fragment        882..940
+                     /name="floxsite.1.before"
+     Fragment        941..974
+                     /name="floxsite.1.flox"
+     Fragment        975..999
+                     /name="floxsite.1.after"
+     Fragment        1000..1382
+                     /name="change"
+     Fragment        1383..1417
+                     /name="floxsite.2.before"
+     Fragment        1418..1451
+                     /name="floxsite.2.flox"
+     Fragment        1452..1476
+                     /name="floxsite.2.after"
+     Fragment        1477..2505
+                     /name="right"
+     SNP             236
+                     /name="rs229618527"
+                     /allele="A/T"
+     SNP             289
+                     /name="rs244887844"
+                     /allele="A/G"
+     SNP             435
+                     /name="rs36383131"
+                     /allele="A/T"
+     SNP             723
+                     /name="rs219155110"
+                     /allele="A/G"
+     SNP             780
+                     /name="rs233152781"
+                     /allele="A/G"
+     SNP             1115
+                     /name="rs212006036"
+                     /allele="C/T"
+     SNP             1860
+                     /name="rs256406226"
+                     /allele="A/G"
+     SNP             1916
+                     /name="rs222554571"
+                     /allele="A/G"
+     SNP             2225
+                     /name="rs226891786"
+                     /allele="A/G"
+     SNP             2298
+                     /name="rs252691131"
+                     /allele="C/T"
+     SNP             2310
+                     /name="rs230822669"
+                     /allele="C/T"
+     SNP             2389
+                     /name="rs263459628"
+                     /allele="C/T"
+     SNP             2403
+                     /name="rs212128620"
+                     /allele="A/G"
+     SNP             2425
+                     /name="rs250503742"
+                     /allele="A/G"
+     SNP             2428
+                     /name="rs236180851"
+                     /allele="C/T"
+     SNP             2433
+                     /name="rs217018885"
+                     /allele="A/C"
+ORIGIN      
+        1 ttctgacatt caatcctctg ctccgattgc tctgtgccct gctagatgcc cagtttggct
+       61 ccattctcta gagccttaga aagggaaggc aggaggaagg ctcagagaag caggctgact
+      121 ttggagtcct ctcagatgct cattttggga gagtccaaaa ggaagtgtta gtttgtagag
+      181 ccatccatgg taccagtggc tggggaaggc tcggcccaag taggcccttt ttaaattttt
+      241 tttttaacat ttatttatta ttatacataa gtacactgta gctgcctgca gacacaccag
+      301 aaaagggcgt cagatctcat tatgggtggt tgtgggattt gaactcagga ccttcggaag
+      361 agcagtcagt gctcttaccg gctgagccat ctcgccagcc ccaagtaggc tctttaaact
+      421 aattcaggat tttgagtgtg tgtacagcag caacctgggg catggggggc gggggtgtcg
+      481 gggatggggt gggaggagga gcctctacac ccttctcttc tccacagagg aggactgcca
+      541 gaaatactta ggtaagcagc agaaccagga gtccgagaag cctttacagg tggccagagt
+      601 ggaaagcagt gtcccacaaa caaaggaact gggaggcatc accacccttg atgaccccct
+      661 aggtaagggc ccagtactgt gcccctaggt agaataggtg ggccacagcc tcaaacatgt
+      721 gacctgcaga gggcatggat accggaagca gatggatgga cctgggacct tgggcaagct
+      781 gctcattctg agccttggtt tccccatcta agaaatggga ataatggcag tcctctccca
+      841 gagtggttct gagactttaa tggcatgcct ccatcatagt tggtggcggc cgaagttcct
+      901 attctctaga aagtatagga acttcgtcga tcgacctcga ataacttcgt atagcataca
+      961 ttatacgaag ttattcgagg gggggcccgg tacgcggcca accgggattt catctgggag
+     1021 gaagttatct gttcactggt agagagggca tgtatatgac attgctttga tatggataca
+     1081 ggcccaggtt cccttgatgg aagactccag gttgggctcc ttccagcctt ctgcagaggc
+     1141 tgattgattc ccttgtcccc tgtcctcagg acaaacgccg gaacttttcg atgcctttat
+     1201 ctgctactgc cccaacgata tcgagtttgt gcaggagatg atccggcaac tagaacagac
+     1261 agactatcgg cttaagttgt gtgtgtccga ccgtgacgtc ctgccgggca cctgtgtctg
+     1321 gtccattgcc agcgagctaa ttgagaaaag gttggttaaa catctaagag ggtaggtggg
+     1381 tgctagaaag tataggaact tcgtcgatcg acctcgaata acttcgtata gcatacatta
+     1441 tacgaagtta ttcgaggggg ggcccggtac gcggccgaaa cccagaggtc cagatgcaag
+     1501 gactgtcctg ctagctgggc tctgtcccgc ctgggtaatg tagtccttcc tgaccccatc
+     1561 ctctgaagga agtcaccgca gtgccactct ccctcaggtg tcgccgcatg gtggtggttg
+     1621 tttctgacga ttatctacag agcaaggaat gtgacttcca gaccaagttt gcactcagcc
+     1681 tgtctccagg taagcttagg cctgctttgg tcaaagagag agtagagata tagccttagg
+     1741 atgatagtcc aggaatgcaa aaccaaagca ctacagatct ctgaggacgg acctgtgtac
+     1801 ttccttatgt agtggatatg tatcatggat acctggttgg tggagagctg gtgttagccc
+     1861 gtgctttagg gactgagcct gtcccaccct agggccccac gtggtcctaa taccacaccc
+     1921 tttggccttc aggtgtccaa cagaagcgac tgattcctat taaatacaag gcgatgaaga
+     1981 aggactttcc cagtatcctg cggttcatca ctatatgcga ctataccaac ccttgcacca
+     2041 agtcctggtt ctggacccgc cttgccaagg ctttgtccct gccctgaaga tgaccctggg
+     2101 agccctaggt atgtcagtct gtctgtgttc ttccgcttgc ctcctttgac actgtagtgg
+     2161 ggagcttgtg gtccgtctat ccctagacat ctacagtagc cagatgtcat ctctcaagtc
+     2221 cttacggaac cagtgactgc aagtgacatt atgacttgcc gggttgccag ccaggacagt
+     2281 gtttatcagg gctgcatgag tctaagcgaa ggactagttg agctacatct cagacatctt
+     2341 tggcctcagg gtctcctcct gagaaacagg atatggagat caggcaggga aatagtgagg
+     2401 cactcttctg gctatcctag gagacccagt gtgggctgaa ggggagctga aggagcacac
+     2461 actggctgtt aaggagcacc acaggcttgc caggacagct gcttt
+//

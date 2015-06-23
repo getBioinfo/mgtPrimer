@@ -1,0 +1,102 @@
+LOCUS       Trpc1|wild               828 bp    DNA     linear   UNK 
+DEFINITION  ORDER=1; TARGET=596,4
+ACCESSION   replace
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..598
+                     /name="left"
+     Fragment        599..828
+                     /name="change"
+     SNP             104
+                     /name="rs37098581"
+                     /allele="C/G"
+     SNP             167
+                     /name="rs37485578"
+                     /allele="G/T"
+     SNP             221
+                     /name="rs37426305"
+                     /allele="C/T"
+     SNP             232
+                     /name="rs36910675"
+                     /allele="C/T"
+     SNP             266
+                     /name="rs36736766"
+                     /allele="A/G"
+     SNP             282
+                     /name="rs36496528"
+                     /allele="A/G"
+     SNP             374
+                     /name="rs37517206"
+                     /allele="A/G"
+     SNP             388
+                     /name="rs37075988"
+                     /allele="A/T"
+     SNP             650
+                     /name="rs36315070"
+                     /allele="C/T"
+ORIGIN      
+        1 tttgaaaact acttctagaa gtaaagaaat tggtctgaaa aatcaatgcc acctgaccta
+       61 tcaggcactg tatctgacca ttttcatttc tagatggcca attgcgactt tttagtaact
+      121 tctcacttca gtcactgaaa tgctctctta ccaacatgct gcacactttt gaccacttaa
+      181 acaaacagat gttacataaa gtaaactgaa agaatcacat cgctctgtct atataaatag
+      241 caaaaaaaaa atcaggcaat attatgtatc ttagttcctt agatatgcca cccataacta
+      301 acatagagtc tactatattt tctggctttg tgaaatcata aatattgatg aaagtaaaat
+      361 tataaaagat taagtaaatg agctaaaaga agaaataaaa catttggtag aaagaaaata
+      421 cctaggacct gtatttaaaa actatatagt cttagatgca ttattaatat ctgagtcatt
+      481 ttcttattgg caaaatgagg ataatgactt ctgttctgtc ttaaagaatt gctatgaaaa
+      541 tgaaattaga tactgtgtac ctaacatcaa ccatggtacc taacatatgg caggtaacca
+      601 ttaatgaaaa ggtaagccat tcaaaggact gaaaaagtca gcaaccacat tcacacagat
+      661 tattttaaag tgaatatata tatatcagac atagatttgg gtctacatta agtctgagtt
+      721 acatacacag ttatcttagt ttttgaagta aatgtatctt tgattgacag tagacagtca
+      781 ccttgttgtg agccaccact ttgagggcaa aggttgccaa gtaaaggg
+//
+LOCUS       Trpc1|mutant             896 bp    DNA     linear   UNK 
+DEFINITION  ORDER=0; TARGET=596,4
+ACCESSION   replace
+KEYWORDS    .
+FEATURES             Location/Qualifiers
+     Fragment        1..598
+                     /name="left"
+     Fragment        599..896
+                     /name="change"
+     SNP             104
+                     /name="rs37098581"
+                     /allele="C/G"
+     SNP             167
+                     /name="rs37485578"
+                     /allele="G/T"
+     SNP             221
+                     /name="rs37426305"
+                     /allele="C/T"
+     SNP             232
+                     /name="rs36910675"
+                     /allele="C/T"
+     SNP             266
+                     /name="rs36736766"
+                     /allele="A/G"
+     SNP             282
+                     /name="rs36496528"
+                     /allele="A/G"
+     SNP             374
+                     /name="rs37517206"
+                     /allele="A/G"
+     SNP             388
+                     /name="rs37075988"
+                     /allele="A/T"
+ORIGIN      
+        1 tttgaaaact acttctagaa gtaaagaaat tggtctgaaa aatcaatgcc acctgaccta
+       61 tcaggcactg tatctgacca ttttcatttc tagatggcca attgcgactt tttagtaact
+      121 tctcacttca gtcactgaaa tgctctctta ccaacatgct gcacactttt gaccacttaa
+      181 acaaacagat gttacataaa gtaaactgaa agaatcacat cgctctgtct atataaatag
+      241 caaaaaaaaa atcaggcaat attatgtatc ttagttcctt agatatgcca cccataacta
+      301 acatagagtc tactatattt tctggctttg tgaaatcata aatattgatg aaagtaaaat
+      361 tataaaagat taagtaaatg agctaaaaga agaaataaaa catttggtag aaagaaaata
+      421 cctaggacct gtatttaaaa actatatagt cttagatgca ttattaatat ctgagtcatt
+      481 ttcttattgg caaaatgagg ataatgactt ctgttctgtc ttaaagaatt gctatgaaaa
+      541 tgaaattaga tactgtgtac ctaacatcaa ccatggtacc taacatatgg caggtaactc
+      601 gagccccagc tggttctttc cgcctcagaa gccatagagc ccaccgcatc cccagcatgc
+      661 ctgctattgt cttcccaatc ctcccccttg ctgtcctgcc ccaccccacc ccccagaata
+      721 gaatgacacc tactcagaca atgcgatgca atttcctcat tttattagga aaggacagtg
+      781 ggagtggcac cttccagggt caaggaaggc acgggggagg ggcaaacaac agatggctgg
+      841 caactagaag gcacagtcga ggctgatcag cgagctctag agaattgatc ccctcc
+//

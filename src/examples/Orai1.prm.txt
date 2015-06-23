@@ -1,0 +1,14 @@
+Mouse Genotyping Primers for Mouse Strain ~ Orai1gt
+
+Primer set - Melting curve primers:
+PrimPrimEnd2	PrimPrimEnd1	PrimPrimAny	CommPrimer	CommTm	WildPrimer	WildTm	WildProdSize	WildProdTm	MutPrimer	MutTm	MutProdSize	MutProdTm	WildProdSeq	MutantProdSeq
+
+
+Primer set - Size different primers:
+PrimPrimEnd2	PrimPrimEnd1	PrimPrimAny	CommPrimer	CommTm	WildPrimer	WildTm	WildProdSize	WildProdTm	MutPrimer	MutTm	MutProdSize	MutProdTm	WildProdSeq	MutantProdSeq
+
+
+Primer set - Universal energy-transfer-labeled primers:
+PrimPrimEnd2	PrimPrimEnd1	PrimPrimAny	CommPrimer	CommTm	WildPrimer	WildTm	WildProdSize	WildProdTm	MutPrimer	MutTm	MutProdSize	MutProdTm	WildProdSeq	MutantProdSeq
+
+
